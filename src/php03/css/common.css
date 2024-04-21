@@ -1,0 +1,20 @@
+.header {
+    background: #000;
+}
+
+.header__inner {
+    /* background: #999; */
+    /* ↑範囲確認用に色付けした */
+    margin: 0 auto;
+    padding: 20px 15px;
+    max-width: 1230px;
+}
+
+.header__logo {
+    color: #fff;
+    text-decoration: none;
+    /* ↑リンクタグのアンダーラインを消すため */
+    font-weight: bold;
+    font-size: 24px;
+}
+
